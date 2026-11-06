@@ -1,0 +1,23 @@
+Training und systematische Evaluation von RL-Policies
+
+  Projektziel
+  - Eine RL-Umgebung aus Gymnasium oder
+  Gymnasium-Robotics auswählen
+  - Verschiedene Trainingsstrategien untersuchen
+  - Lernverhalten und Performance vergleichen
+  - Generalisierung und Robustheit evaluieren
+  Beispiele
+  - MuJoCo-Locomotion
+  - FetchPickAndPlace
+
+Vergleich von RL-Algorithmen und Trainingsmethoden
+  1. Environment: Geeignete Umgebung auswählen und konfigurieren
+  2. Baseline: Einen RL-Algorithmus implementieren und trainieren
+  3. Vergleich: Unterschiedliche Algorithmen oder Trainingsmethoden untersuchen
+  4. Experimente: Mehrere Trainingsläufe und systematische Parametervariationen
+  durchführen
+  5. Evaluation: Lerngeschwindigkeit, Erfolgsrate und Robustheit vergleichen
+Mögliche Vergleiche
+  - PPO vs. SAC vs. TD3
+  - Reward Shaping oder Curriculum Learning
+  - Training mit und ohne Domain Randomization
